@@ -11,7 +11,7 @@ export const Default = {
     task: {
       id: '1',
       title: 'Test Task',
-      sate: 'TASK_INBOX'
+      state: 'TASK_INBOX'
     }
   }
 }
